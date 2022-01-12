@@ -1,2 +1,2 @@
 # trezamora.github.io
-For my gitbhub repo pages
+The root for my GitbHub pages repo
